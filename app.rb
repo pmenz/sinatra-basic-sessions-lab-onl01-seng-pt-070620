@@ -17,4 +17,3 @@ require_relative 'config/environment'
     erb :checkout
   end
 end
-end
